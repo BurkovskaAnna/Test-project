@@ -1,0 +1,39 @@
+/* font-family: "Intro-Book"; */
+@font-face {
+  font-family: 'Intro-Book';
+  src: url('../fonts/Intro-Book.eot');
+  src: url('../fonts/Intro-Book.woff2') format('woff2'),
+       url('../fonts/Intro-Book.woff') format('woff'),
+       url('../fonts/Intro-Book.ttf') format('truetype'),
+       url('../fonts/Intro-Book.svg#Intro-Book') format('svg'),
+       url('../fonts/Intro-Book.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* font-family: "Intro-Black"; */ 
+@font-face {
+  font-family: 'Intro-Black';
+  src: url('../fonts/Intro-Black.eot');
+  src: url('../fonts/Intro-Black.woff2') format('woff2'),
+       url('../fonts/Intro-Black.woff') format('woff'),
+       url('../fonts/Intro-Black.ttf') format('truetype'),
+       url('../fonts/Intro-Black.svg#Intro-Black') format('svg'),
+       url('../fonts/Intro-Black.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* font-family: "Intro-Bold"; */
+@font-face {
+  font-family: 'Intro-Bold';
+  src: url('../fonts/Intro-Bold.eot');
+  src: url('../fonts/Intro-Bold.woff2') format('woff2'),
+       url('../fonts/Intro-Bold.woff') format('woff'),
+       url('../fonts/Intro-Bold.ttf') format('truetype'),
+       url('../fonts/Intro-Bold.svg#Intro-Bold') format('svg'),
+       url('../fonts/Intro-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
